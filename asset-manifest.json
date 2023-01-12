@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ValeriaNikitiuk/static/css/main.af519844.css",
-    "main.js": "/ValeriaNikitiuk/static/js/main.c61521d6.js",
-    "index.html": "/ValeriaNikitiuk/index.html",
-    "main.af519844.css.map": "/ValeriaNikitiuk/static/css/main.af519844.css.map",
-    "main.c61521d6.js.map": "/ValeriaNikitiuk/static/js/main.c61521d6.js.map"
+    "main.css": "/ValeriaNikitiuk/goit-react-hw-01-components/static/css/main.af519844.css",
+    "main.js": "/ValeriaNikitiuk/goit-react-hw-01-components/static/js/main.c61521d6.js",
+    "index.html": "/ValeriaNikitiuk/goit-react-hw-01-components/index.html",
+    "main.af519844.css.map": "/ValeriaNikitiuk/goit-react-hw-01-components/static/css/main.af519844.css.map",
+    "main.c61521d6.js.map": "/ValeriaNikitiuk/goit-react-hw-01-components/static/js/main.c61521d6.js.map"
   },
   "entrypoints": [
     "static/css/main.af519844.css",
