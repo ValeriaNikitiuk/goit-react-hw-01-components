@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ValeriaNikitiuk/static/css/main.3b43540d.css",
-    "main.js": "/ValeriaNikitiuk/static/js/main.2e590328.js",
+    "main.css": "/ValeriaNikitiuk/static/css/main.af519844.css",
+    "main.js": "/ValeriaNikitiuk/static/js/main.f639fb4c.js",
     "index.html": "/ValeriaNikitiuk/index.html",
-    "main.3b43540d.css.map": "/ValeriaNikitiuk/static/css/main.3b43540d.css.map",
-    "main.2e590328.js.map": "/ValeriaNikitiuk/static/js/main.2e590328.js.map"
+    "main.af519844.css.map": "/ValeriaNikitiuk/static/css/main.af519844.css.map",
+    "main.f639fb4c.js.map": "/ValeriaNikitiuk/static/js/main.f639fb4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b43540d.css",
-    "static/js/main.2e590328.js"
+    "static/css/main.af519844.css",
+    "static/js/main.f639fb4c.js"
   ]
 }
