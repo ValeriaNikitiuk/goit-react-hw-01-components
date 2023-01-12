@@ -11,7 +11,8 @@ import TransactionHistory from './Transaction/Transaction'
 import transactions from '../data/transactions.json'
 
 export default function App ()  {
-  return (<div>
+  return (
+    <div>
     <Profile
       name={user.username}
       tag={user.tag}

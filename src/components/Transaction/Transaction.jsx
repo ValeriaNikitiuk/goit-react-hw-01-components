@@ -18,7 +18,7 @@ const TransactionHistory = ({  items
                 {items.map(({ id, type, amount, currency }) =>
                 (
                     <TransactionTable
-                        id={id}
+                        key={id}
                         type={type}
                         amount={amount}
                     currency={currency} />
