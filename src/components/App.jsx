@@ -10,7 +10,7 @@ import friends from '../data/friends.json'
 import TransactionHistory from './Transaction/Transaction'
 import transactions from '../data/transactions.json'
 
-export const App = () => {
+export default function App ()  {
   return (<div>
     <Profile
       name={user.username}
